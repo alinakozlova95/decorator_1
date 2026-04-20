@@ -1,9 +1,0 @@
-model\NordRagu.class
-model\DoubleVenison.class
-model\DishDecorator.class
-model\FireSauce.class
-model\SnowBerries.class
-com\mycompany\nordragudecorator\NordRaguDecorator.class
-model\Dish.class
-gui\MainFrame.class
-model\NorthBread.class
