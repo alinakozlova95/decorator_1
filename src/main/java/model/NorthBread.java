@@ -15,12 +15,12 @@ public class NorthBread extends DishDecorator {
 
     @Override
     public String getDescription() {
-        return dish.getDescription() + " + Норвежская лепешка";
+        return super.getDescription() + " + Норвежская лепешка";
     }
 
     @Override
     public int getPrice() {
-        return dish.getPrice() + 7;
+        return super.getPrice() + 7;
     }
 
 }
